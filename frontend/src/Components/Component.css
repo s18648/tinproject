@@ -1,0 +1,23 @@
+.error {
+  color: rgb(255, 75, 75);
+  font-size: 0.8rem;
+}
+
+
+.errorMessage {
+  font-size: 0.9rem;
+  color: rgb(255, 60, 60);
+  font-weight: bolder;
+}
+
+button {
+  cursor: pointer;
+  padding: 5px 15px;
+  margin: 5px 5px;
+}
+
+.container *  {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
